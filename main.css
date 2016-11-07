@@ -1,0 +1,27 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;   
+}
+
+div {
+    width: 550px;
+    border: 5px #FF8C00 ;
+    margin: 0 auto;
+    margin-top: 150px;
+    text-align: center;
+}
+
+p{
+    font-family: cursive;
+    font-size: 55px;
+    
+    
+}
+
+
+ul{
+    list-style: none;
+    font-weight: bold;
+    font-size: 25px;
+}

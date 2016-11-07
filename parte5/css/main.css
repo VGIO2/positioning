@@ -1,0 +1,48 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.uno, .dos, .tres, .cuatro{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    
+}
+
+.uno{
+    background-color: #ee3e64;
+    left: 0px;
+    top: 0px;
+}
+
+.dos{
+    background-color: #44accf;
+    right: 0px;
+    top: 0px;
+}
+
+.tres{
+    background-color: #b7d84b;
+    left: 0px;
+    bottom: 0px;
+}
+.cuatro{
+    background-color: yellow;
+    right: 0px;
+    bottom: 0px;   
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+    border: 1.5px solid black;
+    color: azure;
+    background-color: black;
+    padding: 8px;
+    margin-left: 930px;
+    position: absolute;
+    top: 600px;  
+}

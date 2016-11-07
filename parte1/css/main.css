@@ -1,0 +1,37 @@
+/* Pon tu código css aqui */
+
+*{
+    position: static;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.uno, .dos, .tres{
+    width: 200px;
+    height: 200px;
+}
+
+.uno{
+    background-color: #ee3e64;
+}
+
+.dos{
+    background-color: #44accf;
+}
+
+.tres{
+    background-color: #b7d84b
+}
+
+a{
+    font-size: 25px;
+    text-decoration: none;
+    border: 1.5px solid black;
+    margin-left: 540px;
+    color: azure;
+    background-color: black;
+    padding: 8px;
+}
